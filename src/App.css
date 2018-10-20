@@ -1,0 +1,12 @@
+
+.nav-link{
+  color: whitesmoke;
+}
+.gameHolder{
+  margin: auto;
+  max-width: 960px;;
+  position: relative;
+  top: 48px;
+  text-align: center;
+
+}
