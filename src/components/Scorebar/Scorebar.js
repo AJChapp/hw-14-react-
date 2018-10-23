@@ -10,6 +10,9 @@ class Scorebar extends Component {
             case false:{
                 return `You Lost!`
             }
+            case "Winner":{
+                return `You Won!!!`
+            }
             case "":{
                 return "Click to make your first guess"
             }

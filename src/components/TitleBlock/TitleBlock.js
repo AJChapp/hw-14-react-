@@ -6,24 +6,9 @@ const TitleBlock = () => {
         <div className = "title">
             <h1>Matching Game</h1>
             <h3>How to Play:</h3>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
-            <p>game description</p>
+            <p>
+                Click a picture to earn points. But dont click the same picture twice or you will lose.
+            </p>
         </div>
     )
 }
